@@ -1,0 +1,15 @@
+# Output products list for <FBAddSub2>
+FBAddSub2.asy
+FBAddSub2.gise
+FBAddSub2.ngc
+FBAddSub2.sym
+FBAddSub2.v
+FBAddSub2.veo
+FBAddSub2.xco
+FBAddSub2.xise
+FBAddSub2\doc\floating_point_ds335.pdf
+FBAddSub2\doc\floating_point_v5_0_readme.txt
+FBAddSub2\doc\floating_point_v5_0_vinfo.html
+FBAddSub2_flist.txt
+FBAddSub2_xmdf.tcl
+_xmsgs\pn_parser.xmsgs

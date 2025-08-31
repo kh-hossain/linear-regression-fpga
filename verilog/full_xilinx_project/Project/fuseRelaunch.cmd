@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "unisims_ver" -lib "unimacro_ver" -lib "xilinxcorelib_ver" -lib "secureip" -o "C:/Users/WTG/Downloads/Submission/Full Xilinx Project/Project/TB_isim_beh.exe" -prj "C:/Users/WTG/Downloads/Submission/Full Xilinx Project/Project/TB_beh.prj" "work.TB" "work.glbl" 
