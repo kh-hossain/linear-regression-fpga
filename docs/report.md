@@ -1,7 +1,11 @@
 # Linear Regression on FPGA — Report
 
-**Formula:**  
-$$ Y = X \cdot \beta + \epsilon, \quad \beta = (X^T X)^{-1} X^T Y $$
+<div align="center">
+
+<strong>Formula:</strong><br>
+<h2> $\beta = (X^T X)^{-1} X^T Y$ </h2>
+
+</div>
 
 ---
 
