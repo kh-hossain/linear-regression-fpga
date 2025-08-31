@@ -93,3 +93,43 @@ linear-regression-fpga/
 - Python notebooks (data generation, algorithm preparation).  
 - Xilinx module documentation for floating-point units, BRAMs, and FSM design.  
 - Hand-drawn design diagrams (see `docs/design_diagrams.md`).
+
+---
+
+## Design Diagrams
+
+The following diagrams were drawn during the planning and visualization stage of the Verilog implementation.
+
+![Design Diagram 1.png](docs/design_diagram_images/1.png)
+
+![Design Diagram 2.png](docs/design_diagram_images/2.png)
+
+![Design Diagram 3.png](docs/design_diagram_images/3.png)
+
+![Design Diagram 4.png](docs/design_diagram_images/4.png)
+
+![Design Diagram 5.png](docs/design_diagram_images/5.png)
+
+![Design Diagram 6.png](docs/design_diagram_images/6.png)
+
+![Design Diagram 7.png](docs/design_diagram_images/7.png)
+
+![Design Diagram 8.png](docs/design_diagram_images/8.png)
+
+![Design Diagram 9.png](docs/design_diagram_images/9.png)
+
+![Design Diagram 10.png](docs/design_diagram_images/10.png)
+
+![Design Diagram 11.png](docs/design_diagram_images/11.png)
+
+![Design Diagram 12.png](docs/design_diagram_images/12.png)
+
+![Design Diagram 13.png](docs/design_diagram_images/13.png)
+
+![Design Diagram 14.png](docs/design_diagram_images/14.png)
+
+![Design Diagram 15.png](docs/design_diagram_images/15.png)
+
+![Design Diagram 16.png](docs/design_diagram_images/16.png)
+
+![Design Diagram 17.png](docs/design_diagram_images/17.png)
